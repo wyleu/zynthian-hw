@@ -1,0 +1,27 @@
+Drill report for /home/txino/Zauber/zynthian/zynthian-hw/zynthian_allinone/zynthian_allinone.kicad_pcb
+Created on Tue 05 Jun 2018 10:55:46 CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'zynthian_allinone.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (41 holes)
+    T2  0.80mm  0.031"  (54 holes)
+    T3  0.81mm  0.032"  (26 holes)
+    T4  1.00mm  0.039"  (73 holes)
+    T5  1.02mm  0.040"  (2 holes)
+
+    Total plated holes count 196
+
+
+Drill file 'zynthian_allinone-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.70mm  0.106"  (4 holes)
+
+    Total unplated holes count 4
